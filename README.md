@@ -1,5 +1,10 @@
-## Next.js App Router Course - Starter
+#### Running the development server
+Run pnpm i to install the project's packages.
+```node
+pnpm i
+```
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+Followed by pnpm dev to start the development server.
+```node
+pnpm dev
+```
