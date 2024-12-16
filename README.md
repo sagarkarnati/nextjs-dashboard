@@ -6,5 +6,5 @@ pnpm i
 
 Followed by pnpm dev to start the development server.
 ```node
-pnpm dev
+rm -rf .next & pnpm run dev
 ```
