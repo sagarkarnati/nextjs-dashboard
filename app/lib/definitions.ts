@@ -9,6 +9,20 @@ export type User = {
   password: string;
 };
 
+export type UserForm = {
+  id: string;
+  name: string;
+  email: string;
+  password: string;
+};
+
+export type UsersTable = {
+  id: string;
+  name: string;
+  email: string;
+};
+
+
 export type Customer = {
   id: string;
   name: string;
